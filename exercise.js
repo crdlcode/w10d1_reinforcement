@@ -4,3 +4,13 @@ var items = ["purchase domain", "install SSL certificate", "deploy site", "celeb
   for(var i = 0; i < items.length; i++){
   console.log((i+1) + ": " + items[i]);
 }
+
+
+
+
+// OUTPUT
+// Todo:
+// 1: purchase domain
+// 2: install SSL certificate
+// 3: deploy site
+// 4: celebrate success
